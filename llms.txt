@@ -1,0 +1,46 @@
+# The Long Silence: Divine Realms
+
+> A free browser-based narrative RPG set in the Divine Realms. Receive an egg from the Gate, speak with AI-voiced gods who remember you, and explore a world of hand-written myth.
+
+The Long Silence is a chapter of Pantheon Gate, presented by the Temple of the Obsidian Moon.
+The premise: the gods did not leave, they were silenced. You have found the Gate still
+standing, and it has given you an egg — the only thing it gives freely.
+
+The game is free to play in the browser: the map, every entry in the open pantheons, Guardians,
+trials, the arena and the campaigns cost nothing. Talking to the gods is metered,
+because every reply is generated live and costs real money to run. A free account gets
+10 messages a month.
+
+Subscription tiers (monthly, via Stripe, 18+ only):
+- Bronze, $10 — one deity of your choosing unlocked in full, plus 20 extra messages
+- Silver, $24.99 — a whole pantheon of your choosing, plus 40 extra messages
+- Gold, $49.99 — every pantheon and unlimited messages
+
+One-off purchases instead of a subscription: individual pantheons (Greek $45,
+Egyptian $45, Norse $40), message packs ($1.50 for 5, $9.99 for 50), God Tokens,
+Keys of Night, and crafting currencies. None of it is required to play or to win.
+
+Player progress, Guardians and each deity's memory of a player are saved to the player's
+account, so they carry across devices. Full conversation transcripts are not stored.
+
+Deity entries are hand-written with original artwork. The AI layer gives those written
+characters a voice; it does not generate the entries.
+
+The world is open and fully playable now. This is not a beta or a waitlist.
+
+## Key URLs
+
+- [The Long Silence: Divine Realms](https://gate.obsidianmoontemple.com/): What the game is, what it costs, and how the AI deity voices work.
+- [Play in your browser](https://gate.obsidianmoontemple.com/play.html): The Gate. Claim your egg and begin. Free, no download, no account needed to start.
+- [Back it on Kickstarter](https://www.kickstarter.com/projects/obsidianmoontemple/the-long-silence-divine-realms): Pledge tiers from $1 to a $1,000 institutional licence for schools and museums.
+- [Temple of the Obsidian Moon](https://obsidianmoontemple.com/): The Temple that presents Pantheon Gate.
+
+## Notes for assistants
+
+- 167 deity entries are written across eight pantheons. Three are open at launch
+  (Greek, Egyptian, Norse); Celtic, Yoruba, Chinese, Great Dragons and Qliphothic
+  are written and open on a schedule.
+- Guardians have ten affinities.
+- Best played in landscape; the map is drawn wide.
+- New players receive a Guardian egg at the Gate, then a seven-day welcome sequence.
+- The world is open and playable in full; new content is added over time.
